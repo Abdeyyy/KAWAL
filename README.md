@@ -142,10 +142,3 @@ Kontribusi selalu terbuka! Jika ingin memperbaiki bug atau menambahkan fitur bar
 3. *Commit* perubahan kamu (`git commit -m 'Menambahkan fitur integrasi baru'`)
 4. *Push* ke *branch* (`git push origin fitur-baru`)
 5. Buka **Pull Request**
-
----
-
-## 📄 Lisensi
-
-Proyek ini dilindungi di bawah lisensi **MIT**. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-`` summit``
