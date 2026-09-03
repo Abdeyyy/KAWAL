@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  web:
+    ports:
+      - "80:80" # Map host port 80 to container port 80 for production public access
