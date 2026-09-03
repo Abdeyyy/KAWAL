@@ -124,13 +124,13 @@ gcloud run deploy kawal-bot \
    > *"Apakah benar pemerintah akan membagikan kuota internet gratis 100GB besok? Buka link berikut..."*
 
 2. **Respon Bot (KAWAL):**
-   > 🔴 **INDIKASI HOAKS**  
-   > 
-   > **Alasan:**  
-   > 1. Pola pesan menggunakan *link* tidak resmi / *phishing*.  
-   > 2. Tidak ada pengumuman resmi dari kementerian terkait.  
-   > 
-   > 💡 **Saran:** Jangan mengklik tautan tersebut atau menyebarkannya kembali.
+*ℹ️ INFORMASI KAWAL*
+
+Halo Om/Tante/Bapak/Ibu... 😊
+
+Kawal sudah membaca informasinya. Saat ini status info tersebut masih MERAGUKAN karena belum ada konfirmasi resmi dari pihak berwenang.
+
+Untuk sementara, lebih baik kita tidak terburu-buru menyebarkannya ya Om/Tante, agar tidak menimbulkan kepanikan di grup. Kawal akan terus memantau info ini. Tetap teduh dan jaga kesehatan! 🙏✨
 
 ---
 
