@@ -16,7 +16,6 @@
 - 🔍 **Cek Teks & Berita:** Pengguna cukup meneruskan (*forward*) atau menempelkan (*paste*) teks berita ke WhatsApp bot.
 - 🤖 **Analisis Berbasis AI:** Menggunakan Gemini API untuk mengevaluasi klaim, logika argumen, dan indikator hoaks.
 - ☁️ **Infrastruktur GCP:** Memanfaatkan Cloud Run / Cloud Functions untuk eksekusi *serverless*, Secret Manager untuk keamanan kredensial, dan Cloud Logging untuk pemantauan.
-- 📊 **Hasil Ringkas & Jelas:** Memberikan status verifikasi (misal: 🔴 **Hoaks**, 🟢 **Fakta**, atau 🟡 **Perlu Verifikasi**) beserta poin alasannya.
 - 💬 **Responsif via WhatsApp:** Mudah diakses oleh berbagai kalangan tanpa perlu menginstal aplikasi tambahan.
 
 ---
